@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../public/alumni/assets2/scss/common/minxi.scss"
+    ],
+    "names": [],
+    "file": "minxi.css"
+}
